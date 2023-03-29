@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WuskieFTW1113
-- 👀 I’m the Owner at IV-MP, Inc.
+- 👋 Hi, I’m Nick
+- 👀 I’m a Debian System Admin at the PetaTech Project
 - 🌱 The Current Codes I know is Javascript, HTML5, Python, Python3, Learning C/C++
 
 <!---

@@ -19,8 +19,10 @@ With a wealth of experience in server architecture, game server engineering, and
   - 🎮 **C#**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="25" height="25">
   - 🔢 **C++**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25">
   - 🌀 **Lua Files**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua Files" width="25" height="25">
+  - 🛡️ **Pawn**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" alt="Pawn" width="25" height="25"> _(Placeholder icon; customize if you have a specific one for Pawn!)_
 
-- **What I Bring to the Table**:
+- **Technical Expertise**:
+  - Mastery in **Debian-based Linux distros** and their extensive use for server deployment, management, and optimization.
   - End-to-end server contracting and management
   - Game server engineering for **GTA multiplayer clients** and **Source Engine games**
   - Network administration with an emphasis on reliability and performance
@@ -37,8 +39,31 @@ With a wealth of experience in server architecture, game server engineering, and
 
 ---
 
+## 🏆 Former Residencies
+
+- **Owner of IV:MP**  
+  Former owner of **IV Multiplayer**, an online multiplayer modification for **GTA IV**.
+
+- **Community Owner of Savline Roleplay**  
+  Managed and grew the vibrant community of **Savline Roleplay**.
+
+- **Owner of PetaTech**  
+  Previously owned **PetaTech**, a tech-oriented initiative formerly hosted at [PetaTech.net](http://PetaTech.net).
+
+---
+
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WuskieFTW1113&show_icons=true&theme=radical" alt="Nick's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WuskieFTW1113&theme=radical" alt="Nick's GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WuskieFTW1113&theme=radical" alt="Nick's GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuskieFTW1113&layout=compact&theme=radical" alt="Nick's Most Used Languages" />
 </p>
+
+---
+
+✨ *Let’s build something incredible together!* ✨

@@ -19,7 +19,7 @@ With a wealth of experience in server architecture, game server engineering, and
   - 🎮 **C#**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="25" height="25">
   - 🔢 **C++**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25">
   - 🌀 **Lua Files**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua Files" width="25" height="25">
-  - 🛡️ **Pawn**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" alt="Pawn" width="25" height="25"> _(Placeholder icon; customize if you have a specific one for Pawn!)_
+  - 🛡️ **Pawn**: <img src="https://img.freepik.com/premium-psd/chess-pawn-3d-icon_158757-5684.jpg" alt="Pawn" width="25" height="25">
 
 - **Technical Expertise**:
   - Mastery in **Debian-based Linux distros** and their extensive use for server deployment, management, and optimization.
